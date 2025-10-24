@@ -1,0 +1,32 @@
+[[mgr.prepend_keymap]]
+on   = "!"
+for  = "windows"
+run  = 'shell "powershell.exe" --block'
+desc = "Open PowerShell here"
+
+[[mgr.prepend_keymap]]
+on   = [ "g", "d" ]
+run  = "cd D:"
+desc = "to d: drive"
+
+[[mgr.prepend_keymap]]
+on   = [ "g", "e" ]
+run  = 'cd E:'
+desc = 'to e: drive'
+
+[[mgr.prepend_keymap]]
+on   = [ "g", "c" ]
+run  = "cd C:"
+desc = "to c: drive"
+
+[[mgr.prepend_keymap]]
+on   = [ ":", "q" ]
+run  = "quit"
+desc = "quit"
+
+[[mgr.prepend_keymap]]
+on   = [ "g", "w" ]
+run  = "cd ~/Downloads/"
+desc = "go to ~/Downloads"
+
+

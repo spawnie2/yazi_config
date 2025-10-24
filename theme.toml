@@ -1,0 +1,6 @@
+[flavor]
+dark = "tokyo-night"
+light = "tokyo-night"
+
+[manager] 
+preview_hovered = { underline = false }
