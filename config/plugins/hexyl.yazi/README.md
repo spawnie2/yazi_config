@@ -3,7 +3,7 @@
 Preview any file on [Yazi](https://github.com/sxyazi/yazi) using [hexyl](https://github.com/sharkdp/hexyl). To install, use the `ya pack` cli utility:
 
 ```bash
-ya pkg add Reledia/hexyl
+ya pack -a Reledia/hexyl
 ```
 
 then include it in your `yazi.toml` to use:
