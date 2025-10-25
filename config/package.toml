@@ -1,7 +1,5 @@
-[[plugin.deps]]
-use = "Reledia/hexyl"
-rev = "016a09b"
-hash = "57c25c6a44801a08fda2d4b12d855f53"
+[plugin]
+deps = []
 
 [[flavor.deps]]
 use = "kalidyasin/yazi-flavors:tokyonight-storm"

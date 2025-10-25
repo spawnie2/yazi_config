@@ -1,6 +1,3 @@
 [submodule "state/packages/state/packages/c666e398e31b81cbd77caa3ce252786a"]
 	path = state/packages/state/packages/c666e398e31b81cbd77caa3ce252786a
 	url = git@github.com:kalidyasin/yazi-flavors.git
-[submodule "state/packages/71cdc8b7522544dc0092b62131403d3b"]
-	path = state/packages/71cdc8b7522544dc0092b62131403d3b
-	url = git@github.com:Reledia/hexyl.yazi.git
