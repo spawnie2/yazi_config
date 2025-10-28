@@ -9,11 +9,6 @@ rev = "738356f"
 hash = "764fd8d4150b7a15050809114e65e993"
 
 [[flavor.deps]]
-use = "kalidyasin/yazi-flavors:tokyonight-storm"
-rev = "fa19b40"
-hash = "556b1b58d6874291f2ac30c7a97977be"
-
-[[flavor.deps]]
-use = "kalidyasin/yazi-flavors:tokyonight-night"
-rev = "fa19b40"
-hash = "936835642f5ba13fa74f32ef03beecc9"
+use = "BennyOe/tokyo-night"
+rev = "5f56364"
+hash = "62e55d8e4af15456907631e6536eb994"

@@ -1,6 +1,0 @@
-[flavor]
-dark = "tokyonight-night"
-light = "tokyonight-night"
-
-[manager] 
-preview_hovered = { underline = false }
